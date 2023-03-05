@@ -1,1 +1,0 @@
-// A syntax error in computer science is an error in the syntax of a coding or programming language, entered by a programmer.
