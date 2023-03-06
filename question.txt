@@ -1,0 +1,11 @@
+1. what is js?
+2. tell me something about js engine v8 internal machine
+3. what is event loop
+4. if javascript is single threaded how does it handle asynchronous call?
+5. difference between set time out and setInterval
+6. can you explain the difference between an async function and a regular function in js?
+7. what is the error handling strategy for promises that were rejected while awaiting?
+8. what are the states of promise?
+9. can you explain what the .sum() method does?
+10. what is call stack in js?
+
